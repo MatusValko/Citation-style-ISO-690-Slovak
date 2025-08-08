@@ -457,7 +457,7 @@
 </group>
 </layout>
 </citation>
-<bibliography entry-spacing="1" line-spacing="1">
+<bibliography entry-spacing="0" line-spacing="1">
 <sort>
 <key macro="responsability"/>
 <key macro="year-date"/>
@@ -690,4 +690,5 @@
 </choose>
 </layout>
 </bibliography>
+
 </style>
